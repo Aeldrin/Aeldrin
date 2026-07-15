@@ -12,7 +12,8 @@ Currently developing **LifeLine Express**, an atmospheric first-person train gam
 
 LifeLine Express is an atmospheric first-person train game focused on exploration, survival, and operating a massive locomotive in a post-apocalyptic world.
 
-More information coming soon.
+Development is in progress.
+The first public devlogs will be available soon.
 
 ---
 
