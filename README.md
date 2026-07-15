@@ -1,16 +1,21 @@
-## Hi there 👋
+# Ældrin
 
-<!--
-**Aeldrin/Aeldrin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Solo indie game developer and Minecraft mod creator.
 
-Here are some ideas to get you started:
+Currently developing **LifeLine Express**, an atmospheric first-person train game built with **Godot Engine**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Current Project
+
+### 🚆 LifeLine Express
+
+LifeLine Express is an atmospheric first-person train game focused on exploration, survival, and operating a massive locomotive in a post-apocalyptic world.
+
+More information coming soon.
+
+---
+
+## Other Projects
+
+- **TeleportBlock** — Minecraft mod for NeoForge.
