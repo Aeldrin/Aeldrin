@@ -19,4 +19,6 @@ The first public devlogs will be available soon.
 
 ## Other Projects
 
-- **TeleportBlock** — Minecraft mod for NeoForge.
+### TeleportBlock
+
+Minecraft mod for NeoForge featuring linked teleportation blocks and survival-friendly gameplay mechanics.
